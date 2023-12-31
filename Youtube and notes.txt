@@ -1,0 +1,4 @@
+Youtube url: https://www.youtube.com/watch?v=gdq7ns8BU3Y&ab_channel=HANOMEDIA
+
+--Create project on current directory
+ng new appName --directory ./
